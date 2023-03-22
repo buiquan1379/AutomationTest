@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="UI.LoginTest" skipped="0" tests="1" time="0.35" timestamp="2023-03-22 05:22:36"><testcase classname="UI.LoginTest" name="Email login test"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+UI.Task.OpenChrome.performAs(OpenChrome.java:15)&#13;
+UI.LoginTest.EmailLoginTest(LoginTest.java:30)&#13;
+</system-err></testcase></testsuite>
